@@ -1,0 +1,15 @@
+.escuro{
+  background-color: #000;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+}
+.claro{
+      background-color: #FFF;
+      color: #000;
+      font-family: 'Roboto', sans-serif;
+ }
+.grayscale {
+  filter: grayscale(100%);
+}
+
+
